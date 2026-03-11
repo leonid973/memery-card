@@ -1,0 +1,1 @@
+В данной программе вы можете воспользоваться заметками. У каждой заметки есть тэг, по нему можно их искать.При создании memory card я использовал PyQt модуль и подключал виджеты, такие как: QLabel,QVBoxLayout,QHBoxLayout,QPushButton,QApplication,QWidget,QRadioButton,QGroupBox,QButtonGroup,QMessageBox.
