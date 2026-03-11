@@ -3,6 +3,8 @@ from PyQt5.QtWidgets import QApplication,QWidget,QVBoxLayout,QLabel,QHBoxLayout,
 app = QApplication([])
 question = QLabel('Какой национальности не существует?')
 
+label = QLabel()
+
 but = QPushButton('Ответить')
 
 group = QGroupBox('Варианты ответов')
